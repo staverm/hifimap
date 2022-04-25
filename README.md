@@ -1,6 +1,6 @@
 # hifimap
 
-Hifimap is a mapping tool optimized for HiFi reads.
+Hifimap is a mapping tool optimized for HiFi reads. Please see the original paper `/hifimap_paper.pdf` for more details.
 
 # Usage
 
